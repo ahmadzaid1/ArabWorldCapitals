@@ -1,0 +1,192 @@
+Manifest-Version: 1.0
+Created-By: 1.7.0_79 (Oracle Corporation)
+
+Name: res/anim/slide_v_enter_reverse.xml
+SHA1-Digest: o6y8sVtIX+U/IVLmssNNO0HLJhM=
+
+Name: assets/yaman.mp3
+SHA1-Digest: onzNQWnsWO9BO0a3/igHr0GuGYg=
+
+Name: assets/IMG_20181102_191527.jpg
+SHA1-Digest: u4QQ5f1uBR1sdv9jaZ+pQ8tYogM=
+
+Name: assets/IMG_20181102_190548.jpg
+SHA1-Digest: HDOc6NUq2D/WNWSlcw9a1kYMUB4=
+
+Name: assets/IMG_20181102_191710.jpg
+SHA1-Digest: VMY9geqGdhyPCUlMs91Cg/2j7rw=
+
+Name: assets/kowat.mp3
+SHA1-Digest: wloDhrJNee/FefCe/3q9jPn8Agw=
+
+Name: res/anim/slide_enter.xml
+SHA1-Digest: Zq8vc9Y86WEOwIHvd2vvnF5LAjU=
+
+Name: assets/sudia.mp3
+SHA1-Digest: KhqvaMUkZolAtjntS0Rhv4CU/TA=
+
+Name: assets/jordan.mp3
+SHA1-Digest: dyds48k4m40/Go3nGMjfY5CiMFU=
+
+Name: assets/IMG_20181102_191346.jpg
+SHA1-Digest: 1KwwxidqAwfqKHVjwYwl4R+6Gag=
+
+Name: assets/palestine.mp3
+SHA1-Digest: UKkoSGEYrFDBRjdj+59GQEQvKJU=
+
+Name: assets/IMG_20181102_190659.jpg
+SHA1-Digest: 2VXJKYj9MD9xNCx+DRrW+Uj7fXI=
+
+Name: assets/IMG_20181102_191143.jpg
+SHA1-Digest: UjODfHwUzFKqozQXWBKxP/lXEbI=
+
+Name: assets/IMG_20181102_191043.jpg
+SHA1-Digest: 4+JRX+7ClB5ju1pjHCbUrvAMiVc=
+
+Name: res/anim/zoom_enter.xml
+SHA1-Digest: AI9U9jd8y+rlzUpfZu9q4VZpvP0=
+
+Name: assets/moroco.mp3
+SHA1-Digest: vTiYlrlwjlZ6Vf5gj61EmOoaUUQ=
+
+Name: assets/moretanya.mp3
+SHA1-Digest: htFbflViYlcuwqSgATMj7SH6enM=
+
+Name: assets/sudan.mp3
+SHA1-Digest: +6bQbJOEctz8/zyckyLeEPpqGYY=
+
+Name: assets/tmp891226088766701568.jpg
+SHA1-Digest: DELDKJip4QFoLnXJS25yP6uLWN4=
+
+Name: assets/IMG_20181102_191212.jpg
+SHA1-Digest: oeWKZk4ZtLK0Qx51NiLA9zwGcnA=
+
+Name: res/anim/fadein.xml
+SHA1-Digest: xsEvJd6+HxCGf8W9bRNyDJagnZ0=
+
+Name: assets/tones.mp3
+SHA1-Digest: Mu0Qzcmr3ATTMnvGQWphHweQAlc=
+
+Name: assets/IMG_20181102_191306.jpg
+SHA1-Digest: okWDoL4v71dbkSwUmEsObGRM+Ls=
+
+Name: assets/IMG_20181102_191115.jpg
+SHA1-Digest: dgEAzSS5O1EC+8FzD0D8lIvCQTU=
+
+Name: assets/bahrin.mp3
+SHA1-Digest: 6c2RJdt9hqJlnND85T5Y9nvXxM0=
+
+Name: assets/IMG_20181102_191454.jpg
+SHA1-Digest: Q4WrXpiRozxn6KQbcLLQo8BAUss=
+
+Name: assets/IMG_20181102_191825.jpg
+SHA1-Digest: 1FPULliZFCazhmWR0jr+CqBuJ3w=
+
+Name: assets/egybt.mp3
+SHA1-Digest: QtluT3sDNXLz9Keom03XDyxqBUc=
+
+Name: res/anim/slide_exit.xml
+SHA1-Digest: ZX/raIXCvGGzgu+fvnYbcbkwl5o=
+
+Name: assets/IMG_20181102_191637.jpg
+SHA1-Digest: JcCh2H3WJaS/5hUEm+TV2srGK8A=
+
+Name: res/anim/slide_enter_reverse.xml
+SHA1-Digest: G+o6PF81lzJHZGjIIUdM6ZH67RI=
+
+Name: assets/moritanya.mp3
+SHA1-Digest: hf3vS790Ech+5xp7+EvjBvZXz6c=
+
+Name: assets/IMG_20181102_190932.jpg
+SHA1-Digest: X9I9mk6sVRu2YKPMawE9cqOrksI=
+
+Name: resources.arsc
+SHA1-Digest: sAXi6++PkYLnwLvCIUZh3mlwDvw=
+
+Name: assets/sumal.mp3
+SHA1-Digest: I98C2sbcSYOZVfoCYSLz9GW6KLo=
+
+Name: assets/IMG_20181102_191426.jpg
+SHA1-Digest: Ns+ym4E686P1Y8DqNc+ELJbK038=
+
+Name: assets/IMG_20181102_191752.jpg
+SHA1-Digest: I5f86C7sfkdWzhT8BVxyHiszqY4=
+
+Name: AndroidManifest.xml
+SHA1-Digest: nLswCOWiZyuMhvpYqILanQSr0Bs=
+
+Name: assets/surya.mp3
+SHA1-Digest: rhcBX1rSUyvh+Q609+Fah5rVWow=
+
+Name: assets/IMG_20181102_191004.jpg
+SHA1-Digest: Zjt/JSPZop5w9yCHobPD5YZBnXk=
+
+Name: assets/iraq.mp3
+SHA1-Digest: yYi926c6zLxqY1tKKAf8AlpOOq4=
+
+Name: assets/IMG_20181102_191557.jpg
+SHA1-Digest: yuBOxzal5Y6o7CGPXjn/HLs07fw=
+
+Name: res/anim/fadeout.xml
+SHA1-Digest: 1RFOJzpf/Tnrt6Cz+YXKri/dcQs=
+
+Name: assets/gebote.mp3
+SHA1-Digest: Tp6MzAbfsJqz7gUf1IrtGpa2aEw=
+
+Name: res/anim/hold.xml
+SHA1-Digest: GKBZZAVQp1UHWpdLvgRKYsaN968=
+
+Name: res/drawable/ya.png
+SHA1-Digest: RRmkx8OEWWD1Yp0KeGnc39PeL5M=
+
+Name: assets/oman.mp3
+SHA1-Digest: YfPOti1SruwPNaBsj0azRF1IDqc=
+
+Name: assets/IMG_20181102_190626.jpg
+SHA1-Digest: HNrCEdFufBwouwwyEecN4eG0dCg=
+
+Name: res/anim/slide_v_exit_reverse.xml
+SHA1-Digest: BmxIVohKX0sSkZa5gB/EAfFftlU=
+
+Name: assets/lobnan.mp3
+SHA1-Digest: d/eDS0AGmkwOM1skDRfJWVT+lww=
+
+Name: res/anim/zoom_enter_reverse.xml
+SHA1-Digest: kvKMcrPGTjRGBwIpiaKwUQ4F/bY=
+
+Name: classes.dex
+SHA1-Digest: vRF28QZ7N+lXhMmw+W3b/x1a7h8=
+
+Name: res/anim/zoom_exit.xml
+SHA1-Digest: ioBRfr3sxqvTP2Dsfg9bfrBu5NA=
+
+Name: assets/emarat.mp3
+SHA1-Digest: zv7ZRqzvOU0/gu/OpRs/OALfVB4=
+
+Name: assets/qatar.mp3
+SHA1-Digest: uG6nzbY/oEqrF/i/RA0vMG+A5YI=
+
+Name: res/anim/slide_exit_reverse.xml
+SHA1-Digest: VE6Oh3BHy1caiImNmGoeHwMHt/I=
+
+Name: res/anim/slide_v_exit.xml
+SHA1-Digest: 9lXf30b08R2I7vWxAXL3x4EnFZU=
+
+Name: res/anim/slide_v_enter.xml
+SHA1-Digest: VwO+DjHaulKaPlqfDFwicM7taAM=
+
+Name: assets/IMG_20181102_190849.jpg
+SHA1-Digest: Itj0PfdUu3tx23KOynDyhqC0eDs=
+
+Name: assets/lebia.mp3
+SHA1-Digest: ysr/1hz3cLjS64AkAnMX2tzHgMY=
+
+Name: assets/jazaer.mp3
+SHA1-Digest: 58NwJi8504GiYxrDr/Z3knsFZbI=
+
+Name: res/anim/zoom_exit_reverse.xml
+SHA1-Digest: kzP0svpVXrshXRVnbxlRXjrmKZo=
+
+Name: assets/IMG_20181102_190730.jpg
+SHA1-Digest: Vrt5CzQlfsmFZvob5KBsth8Cybc=
+
