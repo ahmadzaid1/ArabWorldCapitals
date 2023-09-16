@@ -18,4 +18,4 @@ The Arab World Capitals App features a user-friendly interface with the followin
 # Future Plans
 I'll simply leave it as is; it'll be a good memory.
 
-Note: this app wasn't developed using traditional code, but rather through visual development (dropping blocks), but it was a decent start.
+Note: this app wasn't developed using traditional code, but rather through visual development (dropping blocks).
