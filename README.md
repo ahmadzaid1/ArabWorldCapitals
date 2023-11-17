@@ -16,6 +16,4 @@ The Arab World Capitals App features a user-friendly interface with the followin
 3.Audio Feature: To make learning even more engaging, I added an audio component that plays the country name and its capital when the user taps on it.
 
 # Future Plans
-I'll simply leave it as is; it'll be a good memory.
-
-Note: this app wasn't developed using traditional code, but rather through visual development (dropping blocks).
+I'll simply leave it as is.
